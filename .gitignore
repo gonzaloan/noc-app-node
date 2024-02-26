@@ -3,3 +3,11 @@ dist/
 
 .DS_Store
 package-lock.json
+
+logs/
+.env
+
+mongo/
+postgres/
+!/src/data/postgres/
+!/src/data/mongo/
